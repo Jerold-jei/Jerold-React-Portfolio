@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-facebook"
         }
       ],
-    "aboutme":"I am currently working on PHP Laravel, MySQL, HTML, and CSS. I have done an internship on Node JS and MongoDB. I am using MVC Model for software development and I am working in Agile. I am contributing to the live project.",
+    "aboutme":"At the moment, I'm working on PHP Laravel, MySQL, HTML, and CSS. I did an internship with Node JS and MongoDB. I use the MVC Model for software development and work in Agile. I am working on a live project.",
     "address":"Tharamani, Chennai.",
     "website":"https://github.com/Jerold-jei",
     "education":[
@@ -119,22 +119,22 @@ let resumeData = {
       {
         "name":"Arul Appalam - Admin Panel",
         "description":"Web Application",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "imgurl":"images/admin.png"
       },
       {
         "name":"Portfolio",
         "description":"React JS Website",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "imgurl":"images/portfolio.png"
       },
-      {
-        "name":"Chatbot & Questions",
-        "description":"Web Application",  
-        "imgurl":"images/portfolio/coffee.jpg"
-      },
+      // {
+      //   "name":"Chatbot & Questions",
+      //   "description":"Web Application",  
+      //   "imgurl":"images/.jpg"
+      // },
       {
         "name":"Rent O",
         "description":"Website",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "imgurl":"images/rento.png"
       }
     ],
     "testimonials":[

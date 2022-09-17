@@ -446,7 +446,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #000;
 }
 
 /* Portfolio Content */
@@ -968,7 +968,7 @@ footer {
    position: relative;
 }
 
-footer a, footer a:visited { color: #525252; }
+footer a, footer a:visited { color: #fdfafa; }
 footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
