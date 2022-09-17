@@ -5,7 +5,11 @@ export default class Footer extends Component {
     return (
       <footer>
       <div className="row">
+      
         <div className="twelve columns">
+        <p className="lead">
+             Contact me for any work or suggestions below
+              </p>
           <ul className="social-links">
             {
               resumeData.socialLinks && resumeData.socialLinks.map((item)=>{
